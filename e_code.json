@@ -1,0 +1,3035 @@
+﻿[
+    {
+        "Nama": "Curcumin/Turmeric",
+        "Kode": "E100",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Curcumin/Turmeric ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Food colors "
+    },
+    {
+        "Nama": "Riboflavin (Vitamin B2)",
+        "Kode": "E101",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Riboflavin (Vitamin B2) ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Food colors "
+    },
+    {
+        "Nama": "Tartazine",
+        "Kode": "E102",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Tartrazine",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors "
+    },
+    {
+        "Nama": "Chrysoine Resocinol",
+        "Kode": "E103",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Chrysoine Resocinol ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Food colors "
+    },
+    {
+        "Nama": "Quinoline Yellow",
+        "Kode": "E104",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Quinoline Yellow ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Food colors "
+    },
+    {
+        "Nama": "Fast Yellow AB",
+        "Kode": "E105",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Fast Yellow AB ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Food colors "
+    },
+    {
+        "Nama": "Yellow 2G",
+        "Kode": "E107",
+        "Status": "Syubhat",
+        "Jenis": "Halal",
+        "Name_en": "Yellow 2G ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Halal "
+    },
+    {
+        "Nama": "Sunset Yellow FCF / Orange Yellow S",
+        "Kode": "E110",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Sunset Yellow FCF / Orange Yellow S ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Cochineal / Carminic Acid",
+        "Kode": "E120",
+        "Status": "Haram",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Cochineal / Carminic Acid ",
+        "Status_en": "Haram ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Carmoisine / Azorubine",
+        "Kode": "E122",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Carmoisine / Azorubine ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Amaranth Dye",
+        "Kode": "E123",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Amaranth Dye ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Ponceau 4R / Cochineal Red A",
+        "Kode": "E124",
+        "Status": "Haram",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Ponceau 4R / Cochineal Red A ",
+        "Status_en": "Haram ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Erythrosine BS",
+        "Kode": "E127",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Erythrosine BS ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Red 2G",
+        "Kode": "E128",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Red 2G ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Allura Red AC",
+        "Kode": "E129",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Allura Red AC ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Patent Blue V",
+        "Kode": "E132",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Patent Blue V ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Indigo Carmine / Idigotine",
+        "Kode": "E132",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Indigo Carmine / Idigotine",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Brilliant Blue FCF",
+        "Kode": "E133",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Brilliant Blue FCF ",
+        "Status_en": "Halal",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Chlorophyll",
+        "Kode": "E140",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Chlorophyll ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Caramel Color/with chemicals",
+        "Kode": "E150a",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": " Caramel Color/with chemicals ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Caramel Color/with chemicals",
+        "Kode": "E150b",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Caramel Color/with chemicals ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Caramel Color/with chemicals",
+        "Kode": "E150c",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Caramel Color/with chemicals ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Caramel Color/with chemicals",
+        "Kode": "E150d",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Caramel Color/with chemicals ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Black PN / Brilliant Black BN",
+        "Kode": "E151",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Black PN / Brilliant Black BN ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Carbon Black / Vegetable Carbon (Charcoal)",
+        "Kode": "E153",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Carbon Black / Vegetable Carbon (Charcoal) ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Brown FK",
+        "Kode": "E154",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": " Brown FK ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Brown HT",
+        "Kode": "E155",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": " Brown HT ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Alpha, Beta, Gamma Carotene",
+        "Kode": "E160a",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Alpha, Beta, Gamma Carotene ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Annatto, Bixin, Norbixin",
+        "Kode": "E160b",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Annatto, Bixin, Norbixin ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Capsanthin / Capsorbin",
+        "Kode": "E160c",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": " Capsanthin (Capsanthian) / Capsorbin (Capsorubin)  ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Lycopene",
+        "Kode": "E160d",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Lycopene ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Beta-apo-8-carotenal",
+        "Kode": "E160e",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Beta-apo-8-carotenal ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Ethyl ester of Beta-apo-8-cartonoic acid",
+        "Kode": "E160f",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Ethyl ester of Beta-apo-8-cartonoic acid ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Flavoxanthin",
+        "Kode": "E161a",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Flavoxanthin",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Lutein",
+        "Kode": "E161b",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Lutein ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Cryptoxanthin",
+        "Kode": "E161c",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Cryptoxanthin",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Rubixanthin",
+        "Kode": "E161d",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Rubixanthin ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Violaxanthin",
+        "Kode": "E161e",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Violaxanthin ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Rhodoxanthin",
+        "Kode": "E161f",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Rhodoxanthin ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Canthaxanthin",
+        "Kode": "E161g",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Canthaxanthin ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Beetroot Red / Betanin",
+        "Kode": "E162",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Beetroot Red / Betanin ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Anthocyanins",
+        "Kode": "E163",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Anthocyanins ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Calcium Carbonate (Chalk)",
+        "Kode": "E170",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Calcium Carbonate (Chalk) ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Titanium Dioxide",
+        "Kode": "E171",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Titanium Dioxide ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Iron Oxides and Iron Hydroxides",
+        "Kode": "E172",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Iron Oxides and Iron Hydroxides ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Aluminium",
+        "Kode": "E173",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Aluminium ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Silver",
+        "Kode": "E174",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Silver ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Gold",
+        "Kode": "E175",
+        "Status": "Halal",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Gold ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Pigment Rubine / Lithol Rubine BK",
+        "Kode": "E180",
+        "Status": "Syubhat",
+        "Jenis": "Pewarna Makanan",
+        "Name_en": "Pigment Rubine / Lithol Rubine BK ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Food colors"
+    },
+    {
+        "Nama": "Sorbic Acid",
+        "Kode": "E200",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Sorbic Acid ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Sodium Sorbate",
+        "Kode": "E201",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Sodium Sorbate",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Potassium Sorbate",
+        "Kode": "E202",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Potassium Sorbate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Calcium Sorbate",
+        "Kode": "E203",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Calcium Sorbate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Benzoic Acid",
+        "Kode": "E210",
+        "Status": "Syubhat",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Benzoic Acid ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Sodium Benzoate",
+        "Kode": "E211",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Sodium Benzoate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Potassium Benzoate",
+        "Kode": "E212",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Potassium Benzoate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Calcium Benzoate",
+        "Kode": "E213",
+        "Status": "Syubhat",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Calcium Benzoate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Ethyl 4-hydroxybenzoate",
+        "Kode": "E214",
+        "Status": "Syubhat",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Ethyl 4-hydroxybenzoate ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Ethyl 4-hydroxybenzoate, Sodium Salt",
+        "Kode": "E215",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Ethyl 4-hydroxybenzoate, Sodium Salt ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Propyl 4-hydroxybenzoate",
+        "Kode": "E216",
+        "Status": "Syubhat",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Propyl 4-hydroxybenzoate ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Propyl 4-hydroxybenzoate, Sodium Salt",
+        "Kode": "E217",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Propyl 4-hydroxybenzoate, Sodium Salt ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Methyl 4-hydroxybenzoate",
+        "Kode": "E218",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Methyl 4-hydroxybenzoate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Methyl 4-hydroxybenzoate, Sodium Salt",
+        "Kode": "E219",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Methyl 4-hydroxybenzoate, Sodium Salt ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Sulphur Dioxide",
+        "Kode": "E220",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Sulphur Dioxide ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Sodium Sulphite",
+        "Kode": "E221",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Sodium Sulphite ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Sodium Hydrogen Sulphite",
+        "Kode": "E222",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Sodium Hydrogen Sulphite ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Sodium Metabisulphite",
+        "Kode": "E223",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Sodium Metabisulphite ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Potassium Metabisulphite",
+        "Kode": "E224",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Potassium Metabisulphite ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Calcium Sulphite",
+        "Kode": "E226",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Calcium Sulphite ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Calcium Hydrogen Sulphite",
+        "Kode": "E227",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Calcium Hydrogen Sulphite ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Potassium Hydrogen sulphite",
+        "Kode": "E228",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Potassium Hydrogen sulphite ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Biphenyl / Diphenyl",
+        "Kode": "E230",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Biphenyl / Diphenyl ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "2-Hydroxybiphenyl",
+        "Kode": "E231",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "2-Hydroxybiphenyl ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Sodium Biphenyl-2-yl Oxide",
+        "Kode": "E232",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Sodium Biphenyl-2-yl Oxide ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "2-(Thiazol-4-yl) Benzimidazole",
+        "Kode": "E233",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "2-(Thiazol-4-yl) Benzimidazole ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Nisin",
+        "Kode": "E234",
+        "Status": "Syubhat",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Nisin ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Natamycin",
+        "Kode": "E235",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Natamycin ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Hexamine",
+        "Kode": "E239",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Hexamine",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Dimethyl dicarbonate",
+        "Kode": "E242",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Dimethyl dicarbonate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Potassium Nitrate",
+        "Kode": "E249",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Potassium Nitrate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Sodium Nitrite",
+        "Kode": "E250",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Sodium Nitrite ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Sodium Nitrate",
+        "Kode": "E251",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Sodium Nitrate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Potassium Nitrate(Saltpetre)",
+        "Kode": "E252",
+        "Status": "Syubhat",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Potassium Nitrate (Saltpetre) ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Acetic Acid",
+        "Kode": "E260",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Acetic Acid ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Potassium Acetate",
+        "Kode": "E261",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Potassium Acetate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Sodium Acetates",
+        "Kode": "E262",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Sodium Acetates ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Calcium Acetate",
+        "Kode": "E263",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Calcium Acetate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Lactic Acid",
+        "Kode": "E270",
+        "Status": "Syubhat",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Lactic Acid ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Propionic Acid",
+        "Kode": "E80",
+        "Status": "Syubhat",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Propionic Acid ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Sodium Propionate",
+        "Kode": "E281",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Sodium Propionate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Calcium Propionate",
+        "Kode": "E282",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Calcium Propionate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Potassium Propionate",
+        "Kode": "E283",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Potassium Propionate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Boric acid",
+        "Kode": "E284",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Boric acid ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Sodium tetraborate; Borax",
+        "Kode": "E285",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Sodium tetraborate; Borax ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Carbon Dioxide",
+        "Kode": "E290",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Carbon Dioxide ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Malic Acid",
+        "Kode": "E296",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Malic Acid ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "Fumaric Acid",
+        "Kode": "E297",
+        "Status": "Halal",
+        "Jenis": "Pengawet Makanan",
+        "Name_en": "Fumaric Acid ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Preservatives"
+    },
+    {
+        "Nama": "L-Ascorbic Acid (Vitamin C)",
+        "Kode": "E300",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "L-Ascorbic Acid (Vitamin C) ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Sodium-L-Ascorbate",
+        "Kode": "E301",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Sodium-L-Ascorbate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Calcium-L-Ascorbate",
+        "Kode": "E302",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Calcium-L-Ascorbate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Ascorbyl Palmitate",
+        "Kode": "E304",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Ascorbyl Palmitate ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Antioxidants- Vitamin E",
+        "Kode": "E306",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Antioxidants- Vitamin E ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Synthetic Alpha-Tocopherol",
+        "Kode": "E307",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Synthetic Alpha-Tocopherol ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Synthetic Gamma-Tocopherol",
+        "Kode": "E308",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Synthetic Gamma-Tocopherol ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Synthetic Delta-Tocopherol",
+        "Kode": "E309",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Synthetic Delta-Tocopherol ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Propyl Gallate",
+        "Kode": "E310",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Propyl Gallate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Octyl Gallate",
+        "Kode": "E311",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Octyl Gallate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Dodecyl Gallate",
+        "Kode": "E312",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Dodecyl Gallate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Erythorbic acid",
+        "Kode": "E315",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Erythorbic acid ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Sodium erythorbate",
+        "Kode": "E316",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Sodium erythorbate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Tert-Butylhydroquinone (TBHQ)",
+        "Kode": "E319",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Tert-Butylhydroquinone (TBHQ) ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Butylated Hydroxyanisole (BHA)",
+        "Kode": "E320",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Butylated Hydroxyanisole (BHA) ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Butylated Hydroxytoluene (BHT)",
+        "Kode": "E321",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Butylated Hydroxytoluene (BHT) ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Lecithin",
+        "Kode": "E322",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Lecithin ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Sodium Lactate",
+        "Kode": "E325",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Sodium Lactate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Potassium Lactate",
+        "Kode": "E326",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Potassium Lactate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Calcium Lactate",
+        "Kode": "E327",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Calcium Lactate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Citric Acid",
+        "Kode": "E330",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Citric Acid ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Sodium Citrates",
+        "Kode": "E331",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Sodium Citrates ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Potassium Citrates",
+        "Kode": "E332",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Potassium Citrates ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Calcium Citrates",
+        "Kode": "E333",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Calcium Citrates ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Tartaric Acid",
+        "Kode": "E334",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Tartaric Acid ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Sodium Tartrates",
+        "Kode": "E335",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Sodium Tartrates ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Potassium Tartrates (Cream of Tartar)",
+        "Kode": "E336",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Potassium Tartrates (Cream of Tartar) ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Potassium Sodium Tartrates",
+        "Kode": "E337",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Potassium Sodium Tartrates ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Orthophosphoric Acid",
+        "Kode": "E338",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Orthophosphoric Acid ",
+        "Status_en": "Halal",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Sodium Phosphates",
+        "Kode": "E339",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Sodium Phosphates ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Potassium Phosphates",
+        "Kode": "E340",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Potassium Phosphates ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Calcium Phosphates",
+        "Kode": "E341",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Calcium Phosphates ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Magnesium phosphate",
+        "Kode": "E343",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Magnesium phosphate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Sodium Malate",
+        "Kode": "E350",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Sodium Malate ",
+        "Status_en": "Halal",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Potassium Malate",
+        "Kode": "E351",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Potassium Malate ",
+        "Status_en": "Halal",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Calcium Malate",
+        "Kode": "E352",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Calcium Malate ",
+        "Status_en": "Halal",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Metataric Acid",
+        "Kode": "E353",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Metataric Acid ",
+        "Status_en": "Halal",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Calcium Tartrate",
+        "Kode": "E354",
+        "Status": "Haram",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Calcium Tartrate ",
+        "Status_en": "Haram ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Adipic Acid",
+        "Kode": "E355",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Adipic Acid ",
+        "Status_en": "Halal",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Sodium adipate",
+        "Kode": "E356",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Sodium adipate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Potassium adipate",
+        "Kode": "E357",
+        "Status": "Syubhat",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Potassium adipate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Succinic Acid",
+        "Kode": "E363",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Succinic Acid ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "1,4-Heptonolactane",
+        "Kode": "E370",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "1,4-Heptonolactane ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Nicotinic Acid",
+        "Kode": "E375",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Nicotinic Acid ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Triammonium Citrate",
+        "Kode": "E380",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Triammonium Citrate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Ammonium Ferric Citrate",
+        "Kode": "E381",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Ammonium Ferric Citrate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Calcium Disodium EDTA",
+        "Kode": "E385",
+        "Status": "Halal",
+        "Jenis": "Antioxidant, fosfat, dan agen kompleks",
+        "Name_en": "Calcium Disodium EDTA ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Antioxidants, phosphates, and complexing agents"
+    },
+    {
+        "Nama": "Alginic Acid",
+        "Kode": "E400",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Alginic Acid ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sodium Alginate",
+        "Kode": "E401",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sodium Alginate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Potassium Alginate",
+        "Kode": "E402",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Potassium Alginate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Ammonium Alginate",
+        "Kode": "E403",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Ammonium Alginate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Calcium Alginate",
+        "Kode": "E404",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Calcium Alginate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Propane-1,2-Diol Alginate",
+        "Kode": "E405",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Propane-1,2-Diol Alginate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Agar",
+        "Kode": "E406",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Agar",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Carrageenan",
+        "Kode": "E407",
+        "Status": "Syubhats",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Carrageenan ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Locust Bean Gum (Carob Gum)",
+        "Kode": "E410",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Locust Bean Gum (Carob Gum) ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Guar Gum",
+        "Kode": "E412",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Guar Gum ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Tragacanth",
+        "Kode": "E413",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Tragacanth ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Gum Acacia (Gum Arabic)",
+        "Kode": "E414",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Gum Acacia (Gum Arabic) ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Xanthan Gum",
+        "Kode": "E415",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Xanthan Gum ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Karaya Gum",
+        "Kode": "E416",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Karaya Gum ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Tara Gum",
+        "Kode": "E417",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Tara Gum ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Gellan Gum",
+        "Kode": "E418",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Gellan Gum ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sorbitol",
+        "Kode": "E420",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sorbitol ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Mannitol",
+        "Kode": "E421",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Mannitol ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Glycerol",
+        "Kode": "E422",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Glycerol ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Konjac",
+        "Kode": "E425",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Konjac ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Polyoxyethane (8) Stearate",
+        "Kode": "E430",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Polyoxyethene (8) Stearate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Polyoxyethane (40) Stearate",
+        "Kode": "E431",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Polyoxyethene (40) Stearate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Polyoxyethane (20) Sorbitan / Polysorbate 20",
+        "Kode": "E432",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Polyoxyethene (20) Sorbitan / Polysorbate 20 ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Polyoxyethane (20) Sorbitan Mono-oleate / Polysorbate 80.",
+        "Kode": "E433",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Polyoxyethene (20) Sorbitan Mono-oleate / Polysorbate 80. ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Polyoxyethane (20) Sorbitan Monopalmitate / Polysorbate 40",
+        "Kode": "E434",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Polyoxyethene (20) Sorbitan Monopalmitate / Polysorbate 40 ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Polyoxyethane (20) Sorbitan Monostearate / Polysorbate 60",
+        "Kode": "E435",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Polyoxyethene (20) Sorbitan Monostearate / Polysorbate 60 ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Polyoxyethane (20) Sorbitan Tristearate / Polysorbate 65",
+        "Kode": "E436",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Polyoxyethene (20) Sorbitan Tristearate / Polysorbate 65 ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Pectin",
+        "Kode": "E440a",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Pectin ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Amidated Pectin",
+        "Kode": "E440b",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Amidated Pectin ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Gelatin",
+        "Kode": "E441",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Gelatin",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Ammonium phosphatides",
+        "Kode": "E442",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Ammonium phosphatides ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sucrose accetate isobutyrate",
+        "Kode": "E444",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sucrose acetate isobutyrate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Glycerol esters of wood rosin",
+        "Kode": "E445",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Glycerol esters of wood rosin ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sodium and Potassium Phosphates and Polyphosphates",
+        "Kode": "E450a",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sodium and Potassium Phosphates and Polyphosphates ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sodium and Potassium Phosphates and Polyphosphates",
+        "Kode": "E450b",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sodium and Potassium Phosphates and Polyphosphates ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sodium and Potassium Phosphates and Polyphosphates",
+        "Kode": "E450c",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sodium and Potassium Phosphates and Polyphosphates ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Triphosphates",
+        "Kode": "E451",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Triphosphates ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Polyphosphate",
+        "Kode": "E452",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Polyphosphate ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Beta-Cyclodextrin",
+        "Kode": "E459",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Beta-Cyclodextrin ",
+        "Status_en": "Halal",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Microcrystalline / Powdered Cellulose",
+        "Kode": "E460",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Microcrystalline / Powdered Cellulose ",
+        "Status_en": "Halal",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Methylcellulose",
+        "Kode": "E461",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Methylcellulose ",
+        "Status_en": "Halal",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Hydroxypropyl cellulose",
+        "Kode": "E463",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Hydroxypropyl cellulose",
+        "Status_en": "Halal",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Hydroxypropyl-Methylcellulose",
+        "Kode": "E464",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Hydroxypropyl-Methylcellulose ",
+        "Status_en": "Halal",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Ethyl methyl cellulose",
+        "Kode": "E465",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Ethyl methyl cellulose",
+        "Status_en": "Halal",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Carboxymethyl cellulose, Sodium Salt",
+        "Kode": "E466",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Carboxymethyl cellulose, Sodium Salt ",
+        "Status_en": "Halal",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sodium Carboxy methyl cellulose",
+        "Kode": "E467",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sodium Carboxy methyl cellulose ",
+        "Status_en": "Halal",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Cross Linked Carboxy methyl cellulose",
+        "Kode": "E468",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Cross Linked Carboxy methyl cellulose ",
+        "Status_en": "Halal",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Enzymatically hydrolyzed Carboxy Methyl Cellulose",
+        "Kode": "E469",
+        "Status": "Halal",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Enzymatically hydrolyzed Carboxy Methyl Cellulose ",
+        "Status_en": "Halal",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sodium, Potassium and Calcium Salts of Fatty Acids",
+        "Kode": "E470",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sodium, Potassium and Calcium Salts of Fatty Acids ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Mono-and Diglycerides of Fatty Acids",
+        "Kode": "E471",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Mono-and Diglycerides of Fatty Acids ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Various Esters of Mono-and Diglycerides of Fatty Acids",
+        "Kode": "E472",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Various Esters of Mono-and Diglycerides of Fatty Acids ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Monoand diacetyl tartaric acid esters of mono & diglycerides",
+        "Kode": "E472e",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Mono and diacetyl tartaric acid esters of mono & diglycerides ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sucrose Esters of Fatty Acids",
+        "Kode": "E473",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sucrose Esters of Fatty Acids ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sucroglycerides",
+        "Kode": "E474",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sucroglycerides",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Polyglycerol Esters of Fatty Acids",
+        "Kode": "E475",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Polyglycerol Esters of Fatty Acids ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Polyglycerol Esters of Polycondensed Esters of Caster Oil",
+        "Kode": "E476",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Polyglycerol Esters of Polycondensed Esters of Caster Oil ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Propane-1,2-Diol Esters of Fatty Acids",
+        "Kode": "E477",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Propane-1,2-Diol Esters of Fatty Acids ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Lactylated Fatty Acid Esters of Glycerol and Propane-1,2-Diol",
+        "Kode": "E478",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Lactylated Fatty Acid Esters of Glycerol and Propane-1,2-Diol ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Thermally oxidized soybean oil interacted with mono and diglycerides of fatty acids",
+        "Kode": "E479b",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Thermally oxidized soybean oil interacted with mono and diglycerides of fatty acids ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sodium Stearoyl-2-Lactylate",
+        "Kode": "E481",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sodium Stearoyl-2-Lactylate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Calcium Stearoyl-2-Lactylate",
+        "Kode": "E482",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Calcium Stearoyl-2-Lactylate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Stearyl Tartrate",
+        "Kode": "E483",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Stearyl Tartrate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sorbitan Monostearate",
+        "Kode": "E491",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sorbitan Monostearate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sorbitan Tristearate",
+        "Kode": "E492",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sorbitan Tristearate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sorbitan Monolaurate",
+        "Kode": "E493",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sorbitan Monolaurate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sorbitan Mono-oleate",
+        "Kode": "E494",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sorbitan Mono-oleate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sorbitan Monopalmitate",
+        "Kode": "E95",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sorbitan Monopalmitate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sorbitan Trioleate",
+        "Kode": "E496",
+        "Status": "Syubhat",
+        "Jenis": "Pengental, agen pembentuk gel, fosfat, humektan, pengemulsi",
+        "Name_en": "Sorbitan Trioleate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Thickeners, gelling agents, phosphates, humectants and emulsifiers"
+    },
+    {
+        "Nama": "Sodium Carbonate / Sodium Bicarbonate",
+        "Kode": "E500",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Sodium Carbonate / Sodium Bicarbonate ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Potassium Carbonate / Potassium Bicarbonate",
+        "Kode": "E501",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Potassium Carbonate / Potassium Bicarbonate ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Ammonium Carbonate",
+        "Kode": "E503",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Ammonium Carbonate ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Magnesium Carbonate",
+        "Kode": "E504",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Magnesium Carbonate ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Hydrochloric Acid",
+        "Kode": "E507",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Hydrochloric Acid ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Potassium Chloride",
+        "Kode": "E508",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Potassium Chloride ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Calcium Chloride",
+        "Kode": "E509",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Calcium Chloride ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Ammonium Chloride",
+        "Kode": "E510",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Ammonium Chloride ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Magnesium Chloride",
+        "Kode": "E500",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Magnesium Chloride ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Stannous chloride",
+        "Kode": "E511",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Stannous chloride ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Sulphuric Acid",
+        "Kode": "E512",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Sulphuric Acid ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Sodium Sulphate",
+        "Kode": "E513",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Sodium Sulphate ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Potassium Sulphate",
+        "Kode": "E514",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Potassium Sulphate ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Calcium Sulphate",
+        "Kode": "E516",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Calcium Sulphate ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Ammonium Sulphate",
+        "Kode": "E517",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Ammonium Sulphate ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Magnesium Sulphate",
+        "Kode": "E518",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Magnesium Sulphate ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Almunium sulphate",
+        "Kode": "E520",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Aluminium sulfate",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Alimunium Sodium Sulphate",
+        "Kode": "E521",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Aluminium Sodium sulfate",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Aluminium Potassium Sulphate",
+        "Kode": "E522",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Aluminium Potassium sulfate",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Aluminium Ammonium Sulphate",
+        "Kode": "E523",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Aluminium Ammonium sulfate",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Sodium Hydroxide",
+        "Kode": "E524",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Sodium Hydroxide ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Potassium Hydroxide",
+        "Kode": "E525",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Potassium Hydroxide ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Calcium Hydroxide",
+        "Kode": "E526",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Calcium Hydroxide ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Ammonium Hydroxide",
+        "Kode": "E527",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Ammonium Hydroxide ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Magnesium Hydroxide",
+        "Kode": "E528",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Magnesium Hydroxide ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Calcium Oxide",
+        "Kode": "E529",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Calcium Oxide ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Magnesium Oxide",
+        "Kode": "E530",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Magnesium Oxide ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Sodium Ferrocyanide",
+        "Kode": "E535",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Sodium Ferrocyanide ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Potassium Ferrocyanide",
+        "Kode": "E536",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Potassium Ferrocyanide ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Calcium Ferrocyanide",
+        "Kode": "E538",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Calcium Ferrocyanide ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Dicalcium Ferrocyanide",
+        "Kode": "E540",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Dicalcium Ferrocyanide ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Sodium Aluminium Phosphate",
+        "Kode": "E541",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Sodium Aluminium Phosphate ",
+        "Status_en": "Halal",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Edible Bone Phosphate (Bone-Meal)",
+        "Kode": "E542",
+        "Status": "Syubhat",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Edible Bone Phosphate (Bone-Meal) ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Calcium Polyphosphates",
+        "Kode": "E544",
+        "Status": "Syubhat",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Calcium Polyphosphates ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Ammonium Polyphosphates",
+        "Kode": "E545",
+        "Status": "Syubhat",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Ammonium Polyphosphates ",
+        "Status_en": "Shubhat",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Sodium Silicate",
+        "Kode": "E550",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Sodium Silicate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Silicon Dioxide (Silica Salt)",
+        "Kode": "E551",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Silicon Dioxide (Silica Salt) ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Calcium Silicate",
+        "Kode": "E552",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Calcium Silicate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Magnesium Silicate / Magnesium Trisilicate (Talc)",
+        "Kode": "E553",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Magnesium Silicate / Magnesium Trisilicate (Talc) ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Aluminium Sodium Silicate",
+        "Kode": "E554",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Aluminium Sodium Silicate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Potassium Aluminium Sillicate",
+        "Kode": "E555",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Potassium Aluminium Sillicate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Aluminium Calcium Silicate",
+        "Kode": "E556",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Aluminium Calcium Silicate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Bentonite",
+        "Kode": "E558",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Bentonite",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Kaolin (Aluminium Silicate)",
+        "Kode": "E559",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Kaolin (Aluminium Silicate) ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Alginic",
+        "Kode": "E570",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Alginic ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Stearic Acid",
+        "Kode": "E572",
+        "Status": "Syubhat",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Stearic Acid ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Magnesium Stearate",
+        "Kode": "E574",
+        "Status": "Syubhat",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Magnesium Stearate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Gluconic Acids",
+        "Kode": "E575",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Gluconic Acids ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Glucono Delta-Lactone",
+        "Kode": "E576",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Glucono Delta-Lactone ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Sodium Gluconate",
+        "Kode": "E576",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Sodium Gluconate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Potassium Gluconate",
+        "Kode": "E577",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Potassium Gluconate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Calcium Gluconate",
+        "Kode": "E578",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Calcium Gluconate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "Ferrous Lactate",
+        "Kode": "E585",
+        "Status": "Halal",
+        "Jenis": "Garam dan senyawa sejenis",
+        "Name_en": "Ferrous Lactate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Salts and related compounds"
+    },
+    {
+        "Nama": "L-Glutamic Acid",
+        "Kode": "E620",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "L-Glutamic Acid ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Monosodium Glutamate (MSG)",
+        "Kode": "E621",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Monosodium Glutamate (MSG) ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Monopotassium Glutamate",
+        "Kode": "E622",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Monopotassium Glutamate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Calcium Glutamate",
+        "Kode": "E623",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Calcium Glutamate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Mono ammonium glutamate",
+        "Kode": "E624",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Mono ammonium glutamate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Magnesium diglutamate",
+        "Kode": "E625",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Magnesium diglutamate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Guanylic Acid",
+        "Kode": "E626",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Guanylic Acid ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Sodium Guanylate",
+        "Kode": "E627",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Sodium Guanylate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Dipotassium Guanylate",
+        "Kode": "E628",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Dipotassium Guanylate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Calcium Guanylate",
+        "Kode": "E629",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Calcium Guanylate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Inosinic acid",
+        "Kode": "E630",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Inosinic acid ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Sodium Inosinate",
+        "Kode": "E631",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Sodium Inosinate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Dipotassium Inosinate",
+        "Kode": "E632",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Dipotassium Inosinate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Calcium Inosinate",
+        "Kode": "E633",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Calcium Inosinate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Calcium5-Ribonucleotide",
+        "Kode": "E634",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Calcium5-Ribonucleotide ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Sodium5-Ribonucleotide",
+        "Kode": "E635",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Sodium5-Ribonucleotide ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Maltol",
+        "Kode": "E636",
+        "Status": "Halal",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Maltol ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Ethyl Maltol",
+        "Kode": "E637",
+        "Status": "Halal",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Ethyl Maltol ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Glycine and its sodium salt",
+        "Kode": "E640",
+        "Status": "Syubhat",
+        "Jenis": "Penambah Rasa",
+        "Name_en": "Glycine and its sodium salt ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Flavour enhancers"
+    },
+    {
+        "Nama": "Dimethylpolysiloxane",
+        "Kode": "E900",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Dimethylpolysiloxane",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Beeswax",
+        "Kode": "E901",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Beeswax ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Candelilla Wax",
+        "Kode": "E902",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Candelilla Wax ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Carnauba Wax",
+        "Kode": "E903",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Carnauba Wax ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Shellac",
+        "Kode": "E904",
+        "Status": "Syubhat",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Shellac ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Mineral Hydrocarbons",
+        "Kode": "E9005",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Mineral Hydrocarbons ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Refined Microcrystalline Wax",
+        "Kode": "E907",
+        "Status": "Syubhat",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Refined Microcrystalline Wax ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Montan Acid Esters",
+        "Kode": "E912",
+        "Status": "Syubhat",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Montan Acid Esters ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Lanolin",
+        "Kode": "E913",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Lanolin",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Oxidised Polyethylene Wax",
+        "Kode": "E914",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Oxidised Polyethylene Wax ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "L-Cysteine Hydrochloride",
+        "Kode": "E920",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "L-Cysteine Hydrochloride ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Potassium Bromate",
+        "Kode": "E924",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Potassium Bromate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Chlorine",
+        "Kode": "E925",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Chlorine",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Chlorine Dioxide",
+        "Kode": "E926",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Chlorine Dioxide ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Carbamide",
+        "Kode": "E927b",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Carbamide ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Argon",
+        "Kode": "E938",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Argon ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Helium",
+        "Kode": "E939",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Helium ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Nitrogen",
+        "Kode": "E941",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Nitrogen",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Nitrous Oxide",
+        "Kode": "E942",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Nitrous Oxide ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Butane",
+        "Kode": "E943a",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Butane",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Iso-butane",
+        "Kode": "E943b",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Iso-butane ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Propane",
+        "Kode": "E944",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Propane ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Hydrogen",
+        "Kode": "E949",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Hydrogen",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Aspartane",
+        "Kode": "E951",
+        "Status": "Haram",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Aspartane",
+        "Status_en": "Haram ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Isomalt",
+        "Kode": "E953",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Isomalt",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Sacharin",
+        "Kode": "E954",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Sacharin",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Maltitol",
+        "Kode": "E965",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Maltitol ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Lactitol",
+        "Kode": "E966",
+        "Status": "Syubhat",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Lactitol",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Xylitol",
+        "Kode": "E967",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Xylitol",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Erythritol",
+        "Kode": "E968",
+        "Status": "Halal",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Erythritol ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Quillaia Extract",
+        "Kode": "E999",
+        "Status": "Haram",
+        "Jenis": "Agen pelapis permukaan, gas, pemanis",
+        "Name_en": "Quillaia Extract ",
+        "Status_en": "Haram ",
+        "Jenis_en": "Glazing agents, gases, and sweeteners "
+    },
+    {
+        "Nama": "Amylase Enzyme",
+        "Kode": "E1100",
+        "Status": "Halal",
+        "Jenis": "Bahan Aditif lainnya",
+        "Name_en": "Amylase Enzyme ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Miscellaneous additives"
+    },
+    {
+        "Nama": "Protease Enzyme",
+        "Kode": "E1101",
+        "Status": "Syubhat",
+        "Jenis": "Bahan Aditif lainnya",
+        "Name_en": "Protease Enzyme ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Miscellaneous additives"
+    },
+    {
+        "Nama": "Invertase Enzyme",
+        "Kode": "E1103",
+        "Status": "Halal",
+        "Jenis": "Bahan Aditif lainnya",
+        "Name_en": "Invertase Enzyme ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Miscellaneous additives"
+    },
+    {
+        "Nama": "Lysozyme Enzyme",
+        "Kode": "E1105",
+        "Status": "Halal",
+        "Jenis": "Bahan Aditif lainnya",
+        "Name_en": "Lysozyme Enzyme ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Miscellaneous additives"
+    },
+    {
+        "Nama": "Polydextrose",
+        "Kode": "E1200",
+        "Status": "Halal",
+        "Jenis": "Bahan Aditif lainnya",
+        "Name_en": "Polydextrose",
+        "Status_en": "Halal ",
+        "Jenis_en": "Miscellaneous additives"
+    },
+    {
+        "Nama": "Polyvinylpyrrolidone",
+        "Kode": "E1201",
+        "Status": "Halal",
+        "Jenis": "Bahan Aditif lainnya",
+        "Name_en": "Polyvinylpyrrolidone",
+        "Status_en": "Halal ",
+        "Jenis_en": "Miscellaneous additives"
+    },
+    {
+        "Nama": "Dextrin",
+        "Kode": "E1400",
+        "Status": "Halal",
+        "Jenis": "Turunan Pati",
+        "Name_en": "Dextrin",
+        "Status_en": "Halal ",
+        "Jenis_en": "Starch derivatives"
+    },
+    {
+        "Nama": "Acid Treated Starch",
+        "Kode": "E1401",
+        "Status": "Halal",
+        "Jenis": "Turunan Pati",
+        "Name_en": "Acid Treated Starch ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Starch derivatives"
+    },
+    {
+        "Nama": "Oxidized Starch",
+        "Kode": "E1404",
+        "Status": "Halal",
+        "Jenis": "Turunan Pati",
+        "Name_en": "Oxidized Starch ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Starch derivatives"
+    },
+    {
+        "Nama": "Copper Complex of Chlorophyll",
+        "Kode": "E141",
+        "Status": "Syubhat",
+        "Jenis": "Turunan Pati",
+        "Name_en": "Copper Complex of Chlorophyll ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Starch derivatives"
+    },
+    {
+        "Nama": "Mono starch Phosphate",
+        "Kode": "E1410",
+        "Status": "Syubhat",
+        "Jenis": "Turunan Pati",
+        "Name_en": "Mono starch Phosphate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Starch derivatives"
+    },
+    {
+        "Nama": "Distarch phosphate",
+        "Kode": "E1412",
+        "Status": "Syubhat",
+        "Jenis": "Turunan Pati",
+        "Name_en": "Distarch phosphate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Starch derivatives"
+    },
+    {
+        "Nama": "Phosphated sistarch phosphate",
+        "Kode": "E1413",
+        "Status": "Syubhat",
+        "Jenis": "Turunan Pati",
+        "Name_en": "Phosphated sistarch phosphate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Starch derivatives"
+    },
+    {
+        "Nama": "Green S / Acid Brilliant Green BS",
+        "Kode": "E142",
+        "Status": "Halal",
+        "Jenis": "Turunan Pati",
+        "Name_en": "Green S / Acid Brilliant Green BS ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Starch derivatives"
+    },
+    {
+        "Nama": "Acetylated Starch",
+        "Kode": "E1420",
+        "Status": "Halal",
+        "Jenis": "Turunan Pati",
+        "Name_en": "Acetylated Starch ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Starch derivatives"
+    },
+    {
+        "Nama": "Acetylated distarch phosphate",
+        "Kode": "E1422",
+        "Status": "Syubhat",
+        "Jenis": "Turunan Pati",
+        "Name_en": "Acetylated distarch phosphate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Starch derivatives"
+    },
+    {
+        "Nama": "Hydroxy propyl distarch phosphate",
+        "Kode": "E1442",
+        "Status": "Syubhat",
+        "Jenis": "Turunan Pati",
+        "Name_en": "Hydroxy propyl distarch phosphate ",
+        "Status_en": "Shubhat ",
+        "Jenis_en": "Starch derivatives"
+    },
+    {
+        "Nama": "Starch Sodium Octenyl Succinate",
+        "Kode": "E1450",
+        "Status": "Halal",
+        "Jenis": "Turunan Pati",
+        "Name_en": "Starch Sodium Octenyl Succinate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Starch derivatives"
+    },
+    {
+        "Nama": "Acetylated Oxidized Starch",
+        "Kode": "E1451",
+        "Status": "Halal",
+        "Jenis": "Turunan Pati",
+        "Name_en": "Acetylated Oxidized Starch ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Starch derivatives"
+    },
+    {
+        "Nama": "Triethyl Citrate",
+        "Kode": "E1505",
+        "Status": "Halal",
+        "Jenis": "Lainnya",
+        "Name_en": "Triethyl Citrate ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Others"
+    },
+    {
+        "Nama": "Glyceryl Triacetate, Triacetin",
+        "Kode": "E1518",
+        "Status": "Halal",
+        "Jenis": "Lainnya",
+        "Name_en": "Glyceryl Triacetate, Triacetin ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Others"
+    },
+    {
+        "Nama": "Propylene Glycol",
+        "Kode": "E1520",
+        "Status": "Halal",
+        "Jenis": "Lainnya",
+        "Name_en": "Propylene Glycol ",
+        "Status_en": "Halal ",
+        "Jenis_en": "Others"
+    }
+]
