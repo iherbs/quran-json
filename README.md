@@ -1,5 +1,5 @@
 # quran-json
-Al-Qur'an Format JSON Translate Indonesia Kemenag
+Al-Qur'an Format JSON Translate Indonesia Sumber Kemenag
 
 Al-Qur'an online <a href="https://iherbs.github.io/quran/" target="_blank">https://iherbs.github.io/quran/</a>
 
